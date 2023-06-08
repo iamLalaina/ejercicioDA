@@ -38,7 +38,7 @@ Para el Script en PHP se utilizó el IDE VisualStudioCode(como causó un detalle
 #En general:
 Para llegar a la solución del problema todos llevan ya sea una funcion o un metodo, despues se establece con ciclos el rango e inicio, y al final creamos un ejemplo para probar.
 
-En CSharp que es el lenguaje que se utiliza para .Net e utilizado .Net como mencioné en un trabajo donde mi puesto era Practicante de Sistemas y usabamos el MicrosoftSQLServer. También puedo agregar a esto y que se me estaba olvidando es que utilice un poco C# para mi certificado de Videojuegos en la Universidad, entonces por ende se utilizaba el IDE VisualStudio. 
+En CSharp que es el lenguaje que se utiliza para .Net e utilizado .Net como mencioné en un trabajo donde mi puesto era Practicante de Sistemas y usabamos el MicrosoftSQLServer. También puedo agregar a esto y que se me estaba olvidando es que utilice un poco C# con Unity para mi certificado de Desarrollo de Videojuegos en la Universidad, entonces por ende se utilizaba el IDE VisualStudio. 
 
 Así mismo, he utilizado más el motor de base de datos MySQL y actualmente uso el de Oracle en mi actual trabajo. 
 
